@@ -1,5 +1,5 @@
 # ODSVM-paper
-Implementation of "Learning the Optimal Discriminant SVM With Feature Extraction". The paper is published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), see [here](doi:10.1109/TPAMI.2025.3529711).
+Implementation of "Learning the Optimal Discriminant SVM With Feature Extraction". The paper is published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), see [here](https://doi:10.1109/TPAMI.2025.3529711).
 
 To run the demo, go to `./matlab` and run
 ```[matlab]
